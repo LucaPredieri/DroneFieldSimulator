@@ -1,0 +1,189 @@
+Thu Feb 10 22:42:02: Creating the debug file, process starts.
+Thu Feb 10 22:42:02: The PID of the process is: 6964 
+Thu Feb 10 22:42:02: Connection succesfully established.
+Thu Feb 10 22:42:02: Data correctly written into the socket.
+Thu Feb 10 22:42:02: Feedback correctly read from master process. 
+Thu Feb 10 22:42:02: Position allowed, drone moving. 
+Thu Feb 10 22:42:02: Data correctly written into the socket.
+Thu Feb 10 22:42:02: Feedback correctly read from master process. 
+Thu Feb 10 22:42:02: Position allowed, drone moving. 
+Thu Feb 10 22:42:02: Data correctly written into the socket.
+Thu Feb 10 22:42:02: Feedback correctly read from master process. 
+Thu Feb 10 22:42:02: Position allowed, drone moving. 
+Thu Feb 10 22:42:02: Data correctly written into the socket.
+Thu Feb 10 22:42:02: Feedback correctly read from master process. 
+Thu Feb 10 22:42:02: Position allowed, drone moving. 
+Thu Feb 10 22:42:03: Data correctly written into the socket.
+Thu Feb 10 22:42:03: Feedback correctly read from master process. 
+Thu Feb 10 22:42:03: Position allowed, drone moving. 
+Thu Feb 10 22:42:03: Data correctly written into the socket.
+Thu Feb 10 22:42:03: Feedback correctly read from master process. 
+Thu Feb 10 22:42:03: Position allowed, drone moving. 
+Thu Feb 10 22:42:03: Data correctly written into the socket.
+Thu Feb 10 22:42:03: Feedback correctly read from master process. 
+Thu Feb 10 22:42:03: Position allowed, drone moving. 
+Thu Feb 10 22:42:03: Data correctly written into the socket.
+Thu Feb 10 22:42:03: Feedback correctly read from master process. 
+Thu Feb 10 22:42:03: Position allowed, drone moving. 
+Thu Feb 10 22:42:03: Data correctly written into the socket.
+Thu Feb 10 22:42:03: Feedback correctly read from master process. 
+Thu Feb 10 22:42:03: Position allowed, drone moving. 
+Thu Feb 10 22:42:03: Data correctly written into the socket.
+Thu Feb 10 22:42:03: Feedback correctly read from master process. 
+Thu Feb 10 22:42:03: Position allowed, drone moving. 
+Thu Feb 10 22:42:03: Data correctly written into the socket.
+Thu Feb 10 22:42:03: Feedback correctly read from master process. 
+Thu Feb 10 22:42:03: Position allowed, drone moving. 
+Thu Feb 10 22:42:03: Data correctly written into the socket.
+Thu Feb 10 22:42:03: Feedback correctly read from master process. 
+Thu Feb 10 22:42:03: Position allowed, drone moving. 
+Thu Feb 10 22:42:03: Data correctly written into the socket.
+Thu Feb 10 22:42:03: Feedback correctly read from master process. 
+Thu Feb 10 22:42:03: Position allowed, drone moving. 
+Thu Feb 10 22:42:04: Data correctly written into the socket.
+Thu Feb 10 22:42:04: Feedback correctly read from master process. 
+Thu Feb 10 22:42:04: Position allowed, drone moving. 
+Thu Feb 10 22:42:04: Data correctly written into the socket.
+Thu Feb 10 22:42:04: Feedback correctly read from master process. 
+Thu Feb 10 22:42:04: Position allowed, drone moving. 
+Thu Feb 10 22:42:04: Data correctly written into the socket.
+Thu Feb 10 22:42:04: Feedback correctly read from master process. 
+Thu Feb 10 22:42:04: Position allowed, drone moving. 
+Thu Feb 10 22:42:04: Data correctly written into the socket.
+Thu Feb 10 22:42:04: Feedback correctly read from master process. 
+Thu Feb 10 22:42:04: Position allowed, drone moving. 
+Thu Feb 10 22:42:04: Data correctly written into the socket.
+Thu Feb 10 22:42:04: Feedback correctly read from master process. 
+Thu Feb 10 22:42:04: Position allowed, drone moving. 
+Thu Feb 10 22:42:04: Data correctly written into the socket.
+Thu Feb 10 22:42:04: Feedback correctly read from master process. 
+Thu Feb 10 22:42:04: Position allowed, drone moving. 
+Thu Feb 10 22:42:04: Data correctly written into the socket.
+Thu Feb 10 22:42:04: Feedback correctly read from master process. 
+Thu Feb 10 22:42:04: Position allowed, drone moving. 
+Thu Feb 10 22:42:04: Data correctly written into the socket.
+Thu Feb 10 22:42:04: Feedback correctly read from master process. 
+Thu Feb 10 22:42:04: Position allowed, drone moving. 
+Thu Feb 10 22:42:04: Data correctly written into the socket.
+Thu Feb 10 22:42:04: Feedback correctly read from master process. 
+Thu Feb 10 22:42:04: Position allowed, drone moving. 
+Thu Feb 10 22:42:04: Data correctly written into the socket.
+Thu Feb 10 22:42:04: Feedback correctly read from master process. 
+Thu Feb 10 22:42:04: Position allowed, drone moving. 
+Thu Feb 10 22:42:05: Data correctly written into the socket.
+Thu Feb 10 22:42:05: Feedback correctly read from master process. 
+Thu Feb 10 22:42:05: Position allowed, drone moving. 
+Thu Feb 10 22:42:05: Data correctly written into the socket.
+Thu Feb 10 22:42:05: Feedback correctly read from master process. 
+Thu Feb 10 22:42:05: Position allowed, drone moving. 
+Thu Feb 10 22:42:05: Data correctly written into the socket.
+Thu Feb 10 22:42:05: Feedback correctly read from master process. 
+Thu Feb 10 22:42:05: Position allowed, drone moving. 
+Thu Feb 10 22:42:05: Data correctly written into the socket.
+Thu Feb 10 22:42:05: Feedback correctly read from master process. 
+Thu Feb 10 22:42:05: Position allowed, drone moving. 
+Thu Feb 10 22:42:05: Data correctly written into the socket.
+Thu Feb 10 22:42:05: Feedback correctly read from master process. 
+Thu Feb 10 22:42:05: Position allowed, drone moving. 
+Thu Feb 10 22:42:05: Data correctly written into the socket.
+Thu Feb 10 22:42:05: Feedback correctly read from master process. 
+Thu Feb 10 22:42:05: Position allowed, drone moving. 
+Thu Feb 10 22:42:05: Data correctly written into the socket.
+Thu Feb 10 22:42:05: Feedback correctly read from master process. 
+Thu Feb 10 22:42:05: Position allowed, drone moving. 
+Thu Feb 10 22:42:05: Data correctly written into the socket.
+Thu Feb 10 22:42:05: Feedback correctly read from master process. 
+Thu Feb 10 22:42:05: Position allowed, drone moving. 
+Thu Feb 10 22:42:05: Data correctly written into the socket.
+Thu Feb 10 22:42:05: Feedback correctly read from master process. 
+Thu Feb 10 22:42:05: Position allowed, drone moving. 
+Thu Feb 10 22:42:05: Data correctly written into the socket.
+Thu Feb 10 22:42:05: Feedback correctly read from master process. 
+Thu Feb 10 22:42:05: Position allowed, drone moving. 
+Thu Feb 10 22:42:06: Data correctly written into the socket.
+Thu Feb 10 22:42:06: Feedback correctly read from master process. 
+Thu Feb 10 22:42:06: Position allowed, drone moving. 
+Thu Feb 10 22:42:06: Data correctly written into the socket.
+Thu Feb 10 22:42:06: Feedback correctly read from master process. 
+Thu Feb 10 22:42:06: Position allowed, drone moving. 
+Thu Feb 10 22:42:06: Data correctly written into the socket.
+Thu Feb 10 22:42:06: Feedback correctly read from master process. 
+Thu Feb 10 22:42:06: Position allowed, drone moving. 
+Thu Feb 10 22:42:06: Data correctly written into the socket.
+Thu Feb 10 22:42:06: Feedback correctly read from master process. 
+Thu Feb 10 22:42:06: Position allowed, drone moving. 
+Thu Feb 10 22:42:06: Data correctly written into the socket.
+Thu Feb 10 22:42:06: Feedback correctly read from master process. 
+Thu Feb 10 22:42:06: Position allowed, drone moving. 
+Thu Feb 10 22:42:06: Data correctly written into the socket.
+Thu Feb 10 22:42:06: Feedback correctly read from master process. 
+Thu Feb 10 22:42:06: Position allowed, drone moving. 
+Thu Feb 10 22:42:06: Data correctly written into the socket.
+Thu Feb 10 22:42:06: Feedback correctly read from master process. 
+Thu Feb 10 22:42:06: Position allowed, drone moving. 
+Thu Feb 10 22:42:06: Data correctly written into the socket.
+Thu Feb 10 22:42:06: Feedback correctly read from master process. 
+Thu Feb 10 22:42:06: Position allowed, drone moving. 
+Thu Feb 10 22:42:06: Data correctly written into the socket.
+Thu Feb 10 22:42:06: Feedback correctly read from master process. 
+Thu Feb 10 22:42:06: Position allowed, drone moving. 
+Thu Feb 10 22:42:07: Data correctly written into the socket.
+Thu Feb 10 22:42:07: Feedback correctly read from master process. 
+Thu Feb 10 22:42:07: Position allowed, drone moving. 
+Thu Feb 10 22:42:07: Data correctly written into the socket.
+Thu Feb 10 22:42:07: Feedback correctly read from master process. 
+Thu Feb 10 22:42:07: Position allowed, drone moving. 
+Thu Feb 10 22:42:07: Data correctly written into the socket.
+Thu Feb 10 22:42:07: Feedback correctly read from master process. 
+Thu Feb 10 22:42:07: Position allowed, drone moving. 
+Thu Feb 10 22:42:07: Data correctly written into the socket.
+Thu Feb 10 22:42:07: Feedback correctly read from master process. 
+Thu Feb 10 22:42:07: Position allowed, drone moving. 
+Thu Feb 10 22:42:07: Data correctly written into the socket.
+Thu Feb 10 22:42:07: Feedback correctly read from master process. 
+Thu Feb 10 22:42:07: Position allowed, drone moving. 
+Thu Feb 10 22:42:07: Data correctly written into the socket.
+Thu Feb 10 22:42:07: Feedback correctly read from master process. 
+Thu Feb 10 22:42:07: Position allowed, drone moving. 
+Thu Feb 10 22:42:07: Data correctly written into the socket.
+Thu Feb 10 22:42:07: Feedback correctly read from master process. 
+Thu Feb 10 22:42:07: Position allowed, drone moving. 
+Thu Feb 10 22:42:07: Data correctly written into the socket.
+Thu Feb 10 22:42:07: Feedback correctly read from master process. 
+Thu Feb 10 22:42:07: Position allowed, drone moving. 
+Thu Feb 10 22:42:07: Data correctly written into the socket.
+Thu Feb 10 22:42:07: Feedback correctly read from master process. 
+Thu Feb 10 22:42:07: Position allowed, drone moving. 
+Thu Feb 10 22:42:07: Data correctly written into the socket.
+Thu Feb 10 22:42:07: Feedback correctly read from master process. 
+Thu Feb 10 22:42:07: Position allowed, drone moving. 
+Thu Feb 10 22:42:08: Data correctly written into the socket.
+Thu Feb 10 22:42:08: Feedback correctly read from master process. 
+Thu Feb 10 22:42:08: Position allowed, drone moving. 
+Thu Feb 10 22:42:08: Data correctly written into the socket.
+Thu Feb 10 22:42:08: Feedback correctly read from master process. 
+Thu Feb 10 22:42:08: Position allowed, drone moving. 
+Thu Feb 10 22:42:08: Data correctly written into the socket.
+Thu Feb 10 22:42:08: Feedback correctly read from master process. 
+Thu Feb 10 22:42:08: Position allowed, drone moving. 
+Thu Feb 10 22:42:08: Data correctly written into the socket.
+Thu Feb 10 22:42:08: Feedback correctly read from master process. 
+Thu Feb 10 22:42:08: Position allowed, drone moving. 
+Thu Feb 10 22:42:08: Data correctly written into the socket.
+Thu Feb 10 22:42:08: Feedback correctly read from master process. 
+Thu Feb 10 22:42:08: Position allowed, drone moving. 
+Thu Feb 10 22:42:08: Data correctly written into the socket.
+Thu Feb 10 22:42:08: Feedback correctly read from master process. 
+Thu Feb 10 22:42:08: Position allowed, drone moving. 
+Thu Feb 10 22:42:08: Data correctly written into the socket.
+Thu Feb 10 22:42:08: Feedback correctly read from master process. 
+Thu Feb 10 22:42:08: Position allowed, drone moving. 
+Thu Feb 10 22:42:08: Data correctly written into the socket.
+Thu Feb 10 22:42:08: Feedback correctly read from master process. 
+Thu Feb 10 22:42:08: Position allowed, drone moving. 
+Thu Feb 10 22:42:08: Data correctly written into the socket.
+Thu Feb 10 22:42:08: Feedback correctly read from master process. 
+Thu Feb 10 22:42:08: Position allowed, drone moving. 
+Thu Feb 10 22:42:08: Data correctly written into the socket.
+Thu Feb 10 22:42:08: Feedback correctly read from master process. 
+Thu Feb 10 22:42:08: Position allowed, drone moving. 
